@@ -16,7 +16,7 @@
  ##### The analysis determined the quantities of 13 constituents found in each of the three types of wines. 
  
  
- #####The attributes are
+ ## The attributes are
  
 1) Alcohol 
 2) Malic acid 
