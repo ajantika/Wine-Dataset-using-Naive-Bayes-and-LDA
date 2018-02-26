@@ -7,7 +7,7 @@
  
  
  ## Linear Discriminant Analysis
- #### Linear Discriminant Analysis (LDA) is most commonly used as dimensionality reduction technique in the pre-processing step for   #### pattern-classification and machine learning applications. 
+ #### Linear Discriminant Analysis (LDA) is most commonly used as dimensionality reduction technique in the pre-processing step for  pattern-classification and machine learning applications. 
  
  
  ## About the Wine Dataset
